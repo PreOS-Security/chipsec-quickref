@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2017-07-25T10:19:39.785357000</meta:creation-date><dc:date>2017-07-31T18:44:11.996569000</dc:date><meta:editing-duration>P1DT3H9M44S</meta:editing-duration><meta:editing-cycles>93</meta:editing-cycles><meta:generator>LibreOffice/6.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:print-date>2017-07-31T17:13:48.197297000</meta:print-date><meta:document-statistic meta:character-count="10114" meta:image-count="0" meta:non-whitespace-character-count="9055" meta:object-count="0" meta:page-count="2" meta:paragraph-count="147" meta:table-count="0" meta:word-count="1176"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15265</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2036</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1136</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30741</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15263</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0Jyb3RoZXItSEwtNTI1MEROLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpCcm90aGVyLUhMLTUyNTBETi1zZXJpZXMAAAAWAAMAwQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9QnJvdGhlci1ITC01MjUwRE4tc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpMZXR0ZXIAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1196294</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Brother-HL-5250DN-series</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">10279637</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Narrow" svg:font-family="&apos;Arial Narrow&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial Unicode MS" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial Unicode MS" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Arial Unicode MS" style:font-family-asian="&apos;Arial Unicode MS&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Arial Unicode MS" style:font-family-complex="&apos;Arial Unicode MS&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" style:border-line-width-bottom="0in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:writing-mode="page" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00648404"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00648404"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:paragraph-rsid="00947c0b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:paragraph-rsid="009839fd" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="001d30a8" officeooo:paragraph-rsid="0099c786" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="004e4ae5"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0016069d" officeooo:paragraph-rsid="0016069d" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00124106" officeooo:paragraph-rsid="001d30a8" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00124106" officeooo:paragraph-rsid="00124106" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00124106" officeooo:paragraph-rsid="003b0480" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0020939c" officeooo:paragraph-rsid="0020939c" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00481344" officeooo:paragraph-rsid="0049a5cd" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00481344" officeooo:paragraph-rsid="00481344" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00481344" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="004b2452" officeooo:paragraph-rsid="004b2452" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="006dca02" officeooo:paragraph-rsid="00861c87" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="007d0387" officeooo:paragraph-rsid="007d0387" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="007efc56" officeooo:paragraph-rsid="007efc56" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00804066" officeooo:paragraph-rsid="00804066" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0082a167" officeooo:paragraph-rsid="0082a167" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00843374" officeooo:paragraph-rsid="00843374" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="0020939c" officeooo:paragraph-rsid="0020939c" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:paragraph-rsid="001b8888" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="0016069d" officeooo:paragraph-rsid="0016069d" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="001d30a8" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="00124106" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="0049a5cd" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="00409865" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="00467bda" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="008c499b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="008f64ed" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:paragraph-rsid="0049a5cd" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00481344" officeooo:paragraph-rsid="0049a5cd" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00481344" officeooo:paragraph-rsid="00481344" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00481344" officeooo:paragraph-rsid="008c499b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="004b2452" officeooo:paragraph-rsid="004b2452" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:paragraph-rsid="004b2452" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="007d0387" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="00804066" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="00843374" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="00861c87" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006ea3ab" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:paragraph-rsid="006dca02" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="007d0387" officeooo:paragraph-rsid="007d0387" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="007efc56" officeooo:paragraph-rsid="007efc56" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00804066" officeooo:paragraph-rsid="00804066" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="0082a167" officeooo:paragraph-rsid="0082a167" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="0082a167" officeooo:paragraph-rsid="008e0637" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00843374" officeooo:paragraph-rsid="00843374" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00861c87" officeooo:paragraph-rsid="00861c87" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="0016069d" officeooo:paragraph-rsid="0016069d" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="0054a2b1" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="00898587" officeooo:paragraph-rsid="00898587" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:paragraph-rsid="00648e88" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" officeooo:rsid="00124106" officeooo:paragraph-rsid="001d30a8" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="6pt" fo:font-weight="bold" officeooo:rsid="00481344" officeooo:paragraph-rsid="0049a5cd" style:font-size-asian="5.25pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001d30a8" officeooo:paragraph-rsid="001d30a8" fo:background-color="#000000" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:text-properties officeooo:paragraph-rsid="0079bd44"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:join-border="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="006dca02" officeooo:paragraph-rsid="00481344" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0012b34a" officeooo:paragraph-rsid="00947c0b" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0012b34a" officeooo:paragraph-rsid="00648e88" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="006ea3ab" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="008c499b" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="008e0637" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="008f64ed" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" officeooo:paragraph-rsid="0099c786" style:font-size-asian="3.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="4pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00648404"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" officeooo:rsid="00891437" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" officeooo:rsid="00891437" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" officeooo:rsid="00652ab3" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="003c1209" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="0012b34a" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="0012b34a" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="005ad947" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="005f59aa" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00648e88" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="0066d3eb" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00891437" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="005ad947" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:rsid="0069284e" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:rsid="0077ddb9" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties style:font-name="Arial Narrow" fo:font-size="8pt" officeooo:rsid="00891437" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="00124106"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="001555d2" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00124106" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="001b8888" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004896b6" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00673a0d" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00861c87" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00124106" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00481344" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0019052e"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="001b8888"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0033b11d" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0041af86" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001de547" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001ee685" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="002580d0"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties officeooo:rsid="003fc030"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties officeooo:rsid="00409865"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties officeooo:rsid="00467bda"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="004896b6"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties officeooo:rsid="00481344"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="italic" style:text-underline-style="none" officeooo:rsid="0012b34a" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:color="#000000" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001d30a8" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:color="#000000" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="007270cd" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties fo:color="#000000" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00724775" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="10pt" officeooo:rsid="00648404" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001d30a8" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001d30a8" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005ad947" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00606e3b" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" officeooo:rsid="001d30a8" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties fo:color="#ffffff" style:font-name="Arial Narrow" fo:font-size="12pt" officeooo:rsid="00648404" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:background-color="#000000" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001d30a8" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" fo:background-color="#000000" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="12pt" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="11pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001d30a8" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="11pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="007270cd" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties fo:color="#ffffff" fo:font-size="11pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00724775" fo:background-color="#000000" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="0012b34a" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="004fd29f" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00648e88" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0012b34a" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="009b23a9" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties officeooo:rsid="00673a0d"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties fo:font-size="9pt" officeooo:rsid="00124106" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties fo:font-size="9pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00170f93" style:font-size-asian="9pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties officeooo:rsid="007d0387"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties officeooo:rsid="007efc56"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties officeooo:rsid="00804066"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties officeooo:rsid="0082a167"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties officeooo:rsid="00843374"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties officeooo:rsid="00861c87"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties officeooo:rsid="00898587"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="11in" fo:page-height="8.5in" style:num-format="1" style:print-orientation="landscape" fo:margin-top="0.25in" fo:margin-bottom="0.25in" fo:margin-left="0.25in" fo:margin-right="0.25in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:columns fo:column-count="3">
+     <style:column-sep style:width="0.0035in" style:color="#000000" style:height="100%" style:style="solid"/>
+     <style:column style:rel-width="4896*" fo:start-indent="0in" fo:end-indent="0.1in"/>
+     <style:column style:rel-width="5328*" fo:start-indent="0.1in" fo:end-indent="0.1in"/>
+     <style:column style:rel-width="4896*" fo:start-indent="0.1in" fo:end-indent="0in"/>
+    </style:columns>
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:tracked-changes text:track-changes="false">
+    <text:changed-region xml:id="ct94304476260704" text:id="ct94304476260704">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304427588672" text:id="ct94304427588672">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304479920752" text:id="ct94304479920752">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304473190640" text:id="ct94304473190640">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304492938752" text:id="ct94304492938752">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304500955184" text:id="ct94304500955184">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304494833232" text:id="ct94304494833232">
+     <text:deletion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+      <text:p text:style-name="P1"><text:span text:style-name="T1">cannot</text:span></text:p>
+     </text:deletion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304471266768" text:id="ct94304471266768">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+    <text:changed-region xml:id="ct94304488607744" text:id="ct94304488607744">
+     <text:insertion>
+      <office:change-info>
+       <dc:creator>Unknown Author</dc:creator>
+       <dc:date>2017-07-31T15:49:30.106214000</dc:date>
+      </office:change-info>
+     </text:insertion>
+    </text:changed-region>
+   </text:tracked-changes>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P3"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T59">CHIPSEC </text:span><text:span text:style-name="T60">Q</text:span><text:span text:style-name="T61">uick </text:span><text:span text:style-name="T60">R</text:span><text:span text:style-name="T61">eference for System Administrators </text:span><text:span text:style-name="T56"><text:line-break/></text:span><text:span text:style-name="T65">by PreOS Security<text:line-break/>v0.</text:span><text:span text:style-name="T66">4</text:span><text:span text:style-name="T65">, 2017-07-</text:span><text:span text:style-name="T66">30</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T6">CHIPSEC, </text:span><text:span text:style-name="T7">by Intel Advanced Threat Researc</text:span><text:span text:style-name="T6">h, </text:span><text:span text:style-name="T8">is a firmware diagnostic and vulnerability assessment tool for 32</text:span><text:span text:style-name="T11">-</text:span><text:span text:style-name="T8">/64-bit Intel BIOS/UEFI systems running Linux, Windows, macOS, or UEFI Shell. This reference shows a subset of it’s </text:span><text:span text:style-name="T12">defensive </text:span><text:span text:style-name="T8">commands, for initial system testing. </text:span><text:span text:style-name="T11">Read the </text:span><text:span text:style-name="T8">CHIPSEC manual &amp; wiki pages </text:span><text:a xlink:type="simple" xlink:href="https://github.com/chipsec/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T43">https://github.com/chipsec/</text:span></text:a><text:span text:style-name="T8"> for install info and additional commands.</text:span></text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T18"><text:tab/>Once CHIPSEC is installed, CPython 2.7x has two new modules to call, </text:span><text:span text:style-name="T21">chipsec_</text:span><text:span text:style-name="T20">m</text:span><text:span text:style-name="T21">ain</text:span><text:span text:style-name="T18"> and </text:span><text:span text:style-name="T21">chipsec_util. </text:span><text:span text:style-name="T22">The initial use of CHIPSEC</text:span><text:span text:style-name="T18">:</text:span></text:p>
+   <text:p text:style-name="P7"><text:s text:c="4"/>chipsec_main</text:p>
+   <text:p text:style-name="P24">This will run <text:span text:style-name="T31">all available </text:span>security tests relevant for this syste<text:span text:style-name="T31">m</text:span>. To run other specifi<text:span text:style-name="T30">c</text:span> commands:</text:p>
+   <text:p text:style-name="P7"><text:s text:c="5"/>chipsec_main -m <text:span text:style-name="T19">&lt;tool&gt; &lt;...&gt;</text:span></text:p>
+   <text:p text:style-name="P7"><text:s text:c="5"/>chipsec_util <text:span text:style-name="T30">-m </text:span><text:span text:style-name="T19">&lt;utility&gt; &lt;...&gt;</text:span></text:p>
+   <text:p text:style-name="P52"/>
+   <text:p text:style-name="P62"><text:span text:style-name="T49"><text:s/>CHIPSEC_</text:span><text:span text:style-name="T50">Main </text:span><text:span text:style-name="T51">Command Line </text:span><text:span text:style-name="T50">Options</text:span><text:span text:style-name="T49">: </text:span><text:span text:style-name="T48"><text:line-break/></text:span><text:span text:style-name="T14">-m <text:s/>--module &lt;m&gt;</text:span><text:span text:style-name="T9">: Specify module &lt;m&gt; to run.<text:line-break/></text:span><text:span text:style-name="T14">-a --module_args &lt;a&gt;</text:span><text:span text:style-name="T9">: Additional module arguments.<text:line-break/></text:span><text:span text:style-name="T14">-n –no_driver:</text:span><text:span text:style-name="T9"> Don&apos;t load </text:span><text:change-start text:change-id="ct94304476260704"/><text:span text:style-name="T13">the</text:span><text:span text:style-name="T9"> </text:span><text:change-end text:change-id="ct94304476260704"/><text:span text:style-name="T9">OS </text:span><text:span text:style-name="T10">kernel</text:span><text:span text:style-name="T9"> driver.</text:span><text:change-start text:change-id="ct94304427588672"/><text:span text:style-name="T9"> </text:span><text:span text:style-name="T13">(limits the tool set to non-driver modules)</text:span><text:change-end text:change-id="ct94304427588672"/><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T14">-i –ignore_platform:</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Try to run on unsupported platform</text:span><text:span text:style-name="T9">.<text:line-break/>-</text:span><text:span text:style-name="T14">v –verbose:</text:span><text:span text:style-name="T9"> Verbose mode.<text:line-break/></text:span><text:span text:style-name="T14">-d –debug</text:span><text:span text:style-name="T9">: Show debug output.<text:line-break/></text:span><text:span text:style-name="T14">-l --log &lt;f&gt;:</text:span><text:span text:style-name="T9"> Output using ASCII.<text:line-break/></text:span><text:span text:style-name="T14">-j --json &lt;f&gt;</text:span><text:span text:style-name="T9">: Output using JSON.<text:line-break/></text:span><text:span text:style-name="T14">-x --xml &lt;f&gt;</text:span><text:span text:style-name="T9">: Output using XML.<text:line-break/></text:span><text:span text:style-name="T14">-t --moduletype &lt;t&gt;:</text:span><text:span text:style-name="T9"> Run tests of a specific tag type.<text:line-break/></text:span><text:span text:style-name="T14">--list_tags: </text:span><text:span text:style-name="T9">List all the available module tags.<text:line-break/></text:span><text:span text:style-name="T14">-I --include &lt;p&gt;:</text:span><text:span text:style-name="T9"> Specify additional path to load modules.<text:line-break/></text:span><text:span text:style-name="T14">--failfast:</text:span><text:span text:style-name="T9"> Fail on any exception and exit.<text:line-break/></text:span><text:span text:style-name="T14">--no_time:</text:span><text:span text:style-name="T9"> Don&apos;t log timestamps.<text:line-break/></text:span><text:span text:style-name="T14">-p –platform:</text:span><text:span text:style-name="T9"> Specify 3-character platform code: </text:span><text:span text:style-name="T15">AVN (Avoton), BDW (Broadwell), BYT (Bay Trail), CHT (Cherry Trail</text:span><text:span text:style-name="T16">)</text:span><text:span text:style-name="T15">, Braswell), HSW </text:span><text:span text:style-name="T16">(</text:span><text:span text:style-name="T15">Haswell), HSX </text:span><text:span text:style-name="T16">(</text:span><text:span text:style-name="T15">Haswell Server), IVT (Ivytown, Ivy Bridge-E), JKT (Jaketown, Sandy Bridge-E), KB</text:span><text:change-start text:change-id="ct94304479920752"/><text:span text:style-name="T17">L</text:span><text:change-end text:change-id="ct94304479920752"/><text:span text:style-name="T15"> </text:span><text:span text:style-name="T16">(</text:span><text:span text:style-name="T15"> Kaby Lake), QRK (Quark), SKL (Skylake).<text:line-break/></text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T52"><text:s/>CHIPSEC Main T</text:span><text:span text:style-name="T53">ests: </text:span><text:span text:style-name="T47"><text:line-break/></text:span><text:span text:style-name="T5">memconfig</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">V</text:span><text:span text:style-name="T2">erify memory map registers are correctly configured.<text:line-break/></text:span><text:span text:style-name="T5">remap</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">V</text:span><text:span text:style-name="T2">erify memory remapping configuration.<text:line-break/></text:span><text:span text:style-name="T5">smm_dma</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">E</text:span><text:span text:style-name="T2">xamines SMRAM configuration for DMA attacks.<text:line-break/></text:span><text:span text:style-name="T5">common.secureboot.variables</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">V</text:span><text:span text:style-name="T2">erify the UEFI Secure Boot-related variables are protected.<text:line-break/></text:span><text:span text:style-name="T5">common.uefi.access_uefispec</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">V</text:span><text:span text:style-name="T2">erify </text:span><text:change-start text:change-id="ct94304473190640"/><text:span text:style-name="T1">the</text:span><text:span text:style-name="T2"> </text:span><text:change-end text:change-id="ct94304473190640"/><text:span text:style-name="T2">protection of UEFI variables.<text:line-break/></text:span><text:span text:style-name="T5">common.uefi.s3bootscript</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">heck S3 Resume Boot-Script protections.<text:line-break/></text:span><text:span text:style-name="T5">common.bios_kbrd_buffer:</text:span><text:span text:style-name="T2"> <text:s/></text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks BIOS/HDD password exposure via keyboard buffer.<text:line-break/></text:span><text:span text:style-name="T5">common.bios_smi</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks SMI event configurations.<text:line-break/></text:span><text:span text:style-name="T5">common.bios_ts</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks BIOS Interface Lock, including Top Swap Mode.<text:line-break/></text:span><text:span text:style-name="T5">common.bios_wp</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks BIOS Region Write Protection.<text:line-break/></text:span><text:span text:style-name="T5">common.ia32cfg</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">T</text:span><text:span text:style-name="T2">ests that IA-32/IA-64 features are configured and locked.<text:line-break/></text:span><text:span text:style-name="T5">common.rtclock</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks for RTC memory locks.<text:line-break/></text:span><text:span text:style-name="T5">common.smm</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks SMM memory (SMRAM) protection.<text:line-break/></text:span><text:span text:style-name="T5">common.smrr</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks for CPU SMM Cache Poisoning and SMMs are enabled and configured.<text:line-break/></text:span><text:span text:style-name="T5">common.spi_desc</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks that </text:span><text:change-start text:change-id="ct94304492938752"/><text:span text:style-name="T1">unauthorized </text:span><text:change-end text:change-id="ct94304492938752"/><text:span text:style-name="T2">software </text:span><text:change-start text:change-id="ct94304500955184"/><text:span text:style-name="T1">is unable to</text:span><text:change-end text:change-id="ct94304500955184"/><text:change text:change-id="ct94304494833232"/><text:span text:style-name="T2"> write to the SPI Flash Descriptor.<text:line-break/></text:span><text:span text:style-name="T5">common.spi_fdopss</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks for SPI Controller Flash Descriptor Security Override Pin Strap. <text:line-break/></text:span><text:span text:style-name="T5">common.spi_lock</text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T4">C</text:span><text:span text:style-name="T2">hecks if SPI Flash Controller Configuration is locked.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T58"><text:s/>CHIPSEC Main Tools: </text:span><text:span text:style-name="T54"><text:line-break/></text:span><text:span text:style-name="T69">tools.secureboot.te, tools.cpu.sinkhole, tools.smm.smm_ptr, tools.uefi.blacklist, tools.uefi.s3script_modify, tools.vmm.cpuid_fuzz, tools.vmm.hypercallfuzz, tools.vmm.iofuzz, tools.vmm.msr_fuzz, tools.vmm.pcie_fuzz, tools.vmm.pcie_overlap_fuzz, tools.vmm.venom, tools.vmm.hv.hypercallfuzz, tools.vmm.hv.synth_dev, tools.vmm.hv.synth_kbd, tools.vmm.hv.vmbusfuzz, tools.vmm.vbox.vbox_crash_apicbase, tools.vmm.xen.hypercallfuzz, tools.vmm.xen.xsa188</text:span><text:span text:style-name="T68"> </text:span></text:p>
+   <text:p text:style-name="P70">________________________________________________________</text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T27">blacklist</text:span>: <text:span text:style-name="T39">Check for blacklisted UEFI executables.</text:span></text:p>
+   <text:p text:style-name="P8">chipsec_main -m tools.uefi.blacklist </text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T27">chipsec_main [-i] [--no_driver] -m tools.uefi.blacklist [-a </text:span><text:span text:style-name="T26">&lt;fw_image&gt;,&lt;blacklist&gt;</text:span><text:span text:style-name="T27">]</text:span></text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T27">whitelist</text:span>: <text:span text:style-name="T39">Check for whitelisted UEFI </text:span>executable<text:span text:style-name="T37">s</text:span>.</text:p>
+   <text:p text:style-name="P11">chipsec_main -m tools.uefi.whitelist [-a generate|check,<text:span text:style-name="T19">&lt;json&gt;,&lt;fw_image&gt;</text:span>]</text:p>
+   <text:p text:style-name="P61"/>
+   <text:p text:style-name="P60">CHIPSEC_Util Utilities:</text:p>
+   <text:p text:style-name="P58"><text:span text:style-name="T35">a</text:span><text:span text:style-name="T34">cpi, cmos, cpu, decode, idt, gdt, ec, igd, io, iommu, ldt, mem, mmcfg, mmio, msgbus, msr, </text:span><text:span text:style-name="T35">nmi, </text:span><text:span text:style-name="T34">pci, platform, </text:span><text:span text:style-name="T36">reg, </text:span><text:span text:style-name="T34">smbus, smi, spd, spi, spidesc, ucode, uefi, vmm.</text:span></text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P26"><text:span text:style-name="T27">acpi</text:span>: <text:span text:style-name="T39">Provides access to ACPI tables.</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m acpi list</text:p>
+   <text:p text:style-name="P9">chipsec_util -m acpi table <text:span text:style-name="T19">&lt;name&gt;|&lt;file_path&gt;</text:span></text:p>
+   <text:p text:style-name="P26">chipsec_util -m acpi table XSDT</text:p>
+   <text:p text:style-name="P26">chipsec_util -m acpi table acpi_table.bin</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P32"><text:span text:style-name="T29">cpu</text:span><text:span text:style-name="T42">: Display CPU information.</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util cpu info</text:p>
+   <text:p text:style-name="P12">chipsec_util cpu cr <text:span text:style-name="T19">&lt;cpu_id&gt; &lt;cr_number&gt; [value]</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util cpu cpuid <text:span text:style-name="T19">&lt;eax&gt; [ecx]</text:span></text:p>
+   <text:p text:style-name="P14">chipsec_util cpu pt <text:span text:style-name="T19">[paging_base_cr3]</text:span></text:p>
+   <text:p text:style-name="P54">________________________________________________________</text:p>
+   <text:p text:style-name="P39"><text:span text:style-name="T27">cmos</text:span>: <text:span text:style-name="T70">CMOS command.</text:span></text:p>
+   <text:p text:style-name="P17">chipsec_util cmos dump</text:p>
+   <text:p text:style-name="P17">chipsec_util cmos readl|writel|readh|writeh <text:span text:style-name="T19">&lt;offset&gt; [val]</text:span></text:p>
+   <text:p text:style-name="P45">chipsec_util cmos rl 0x0</text:p>
+   <text:p text:style-name="P45">chipsec_util cmos wh 0x0 0xCC</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T27">decode</text:span>: <text:span text:style-name="T39">Decode a &apos;rom.bin&apos; image file of a SPI flash dump (see SPI command).</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m decode <text:span text:style-name="T19">&lt;rom&gt; [fw_type]</text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T27">chipsec_util -m decode types: </text:span>chipsec_util -m decode spi.bin vss</text:p>
+   <text:p text:style-name="P67">________________________________________________________</text:p>
+   <text:p text:style-name="P38"><text:span text:style-name="T27">ec</text:span>: <text:span text:style-name="T71">Embedded Controller command.</text:span></text:p>
+   <text:p text:style-name="P18">chipsec_util ec index <text:span text:style-name="T19">[&lt;offset&gt;]</text:span></text:p>
+   <text:p text:style-name="P46"><text:span text:style-name="T27">chipsec_util ec dump</text:span><text:span text:style-name="T26"> [&lt;size&gt;]</text:span></text:p>
+   <text:p text:style-name="P18">chipsec_util ec command<text:span text:style-name="T19"> &lt;command&gt;</text:span></text:p>
+   <text:p text:style-name="P18">chipsec_util ec read <text:span text:style-name="T19">&lt;start_offset&gt; [&lt;size&gt;]</text:span></text:p>
+   <text:p text:style-name="P18">chipsec_util ec write <text:span text:style-name="T19">&lt;offset&gt; &lt;val&gt;</text:span></text:p>
+   <text:p text:style-name="P54">________________________________________________________</text:p>
+   <text:p text:style-name="P40"><text:span text:style-name="T27">io</text:span>: <text:span text:style-name="T72">Allows direct access to read and write I/O port space.</text:span></text:p>
+   <text:p text:style-name="P19">chipsec_util io list</text:p>
+   <text:p text:style-name="P19">chipsec_util io<text:span text:style-name="T19"> &lt;io_port&gt; &lt;width&gt; [value]</text:span></text:p>
+   <text:p text:style-name="P47">chipsec_util io 0x61 1</text:p>
+   <text:p text:style-name="P47">chipsec_util io 0x430 byte 0x0</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T27">iommu</text:span>: Provides access to I/O Memory Management Unit (IOMMU) engines, e.g. Intel VT-d.<text:change-start text:change-id="ct94304471266768"/> <text:span text:style-name="T76">The ‘pt’ command dumps the IOMMU Page Tables.</text:span><text:change-end text:change-id="ct94304471266768"/></text:p>
+   <text:p text:style-name="P12">chipsec_util iommu list</text:p>
+   <text:p text:style-name="P12">chipsec_util iommu config <text:span text:style-name="T41">&lt;</text:span><text:span text:style-name="T19">iommu_engine</text:span><text:span text:style-name="T23">&gt;</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util iommu status <text:span text:style-name="T41">&lt;</text:span><text:span text:style-name="T19">iommu_engine</text:span><text:span text:style-name="T23">&gt;</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util iommu enable|disable <text:span text:style-name="T19">&lt;iommu_engine&gt;</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util iommu pt<text:change-start text:change-id="ct94304488607744"/> </text:p>
+   <text:p text:style-name="P59"/>
+   <text:p text:style-name="P56">Examples:</text:p>
+   <text:p text:style-name="P33"><text:change-end text:change-id="ct94304488607744"/>chipsec_util iommu config VTD</text:p>
+   <text:p text:style-name="P33">chipsec_util iommu status GFXVTD</text:p>
+   <text:p text:style-name="P35">chipsec_util iommu enable VTD</text:p>
+   <text:p text:style-name="P67">________________________________________________________</text:p>
+   <text:p text:style-name="P43"><text:span text:style-name="T27">mem</text:span>: <text:span text:style-name="T73">Provides direct access to physical memory.</text:span></text:p>
+   <text:p text:style-name="P20">chipsec_util mem read|readval|write|writeval|allocate|pagedump <text:span text:style-name="T19">&lt;physical_address&gt; &lt;length&gt; [value|buffer_file]</text:span></text:p>
+   <text:p text:style-name="P48">chipsec_util mem readval <text:s/>0xFED40000 dword</text:p>
+   <text:p text:style-name="P48">chipsec_util mem read 0x41E <text:s/>0x20 buffer.bin</text:p>
+   <text:p text:style-name="P48">chipsec_util mem writeval 0xA0000 dword 0x9090CCCC</text:p>
+   <text:p text:style-name="P48">chipsec_util mem write 0x100000000 0x1000 buffer.bin</text:p>
+   <text:p text:style-name="P48">chipsec_util mem write 0x100000000 <text:s/>0x10 <text:s/>000102030405060708090A0B0C0D0E0F</text:p>
+   <text:p text:style-name="P48"><text:soft-page-break/>chipsec_util mem allocate 0x1000</text:p>
+   <text:p text:style-name="P49">chipsec_util mem pagedump 0xFED00000 <text:s/>0x100000</text:p>
+   <text:p text:style-name="P68">________________________________________________________</text:p>
+   <text:p text:style-name="P36"><text:span text:style-name="T27">mmcfg</text:span>: Provides access to the Memory Mapped PCIe Configuration Space.</text:p>
+   <text:p text:style-name="P15">chipsec_util mmcfg <text:span text:style-name="T19">&lt;bus&gt; &lt;device&gt; &lt;function&gt; &lt;offset&gt; &lt;width&gt; [value]</text:span></text:p>
+   <text:p text:style-name="P36">chipsec_util mmcfg 0 0 0 0x88 4</text:p>
+   <text:p text:style-name="P36">chipsec_util mmcfg 0 0 0 0x88 byte 0x1A</text:p>
+   <text:p text:style-name="P36">chipsec_util mmcfg 0 0x1F 0 0xDC 1 0x1</text:p>
+   <text:p text:style-name="P36">chipsec_util mmcfg 0 0 0 0x98 dword 0x004E0040</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P36"><text:span text:style-name="T27">mmio</text:span>: Provides access to Memory Mapped I/O (MMIO).</text:p>
+   <text:p text:style-name="P15">chipsec_util mmio list</text:p>
+   <text:p text:style-name="P15">chipsec_util mmio dump <text:span text:style-name="T19">&lt;name&gt;</text:span></text:p>
+   <text:p text:style-name="P15">chipsec_util mmio read <text:span text:style-name="T19">&lt;name&gt; &lt;offset&gt; &lt;width&gt;</text:span></text:p>
+   <text:p text:style-name="P15">chipsec_util mmio write <text:span text:style-name="T67">&lt;</text:span><text:span text:style-name="T19">name&gt; &lt;offset&gt; &lt;width&gt; &lt;value&gt;</text:span></text:p>
+   <text:p text:style-name="P36">chipsec_util mmio dump MCHBAR</text:p>
+   <text:p text:style-name="P36">chipsec_util mmio read SPIBAR 0x74 0x4</text:p>
+   <text:p text:style-name="P36">chipsec_util mmio write SPIBAR 0x74 0x4 0xFFFF0000</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P37"><text:span text:style-name="T28">pci</text:span><text:span text:style-name="T18">: Enumerate </text:span>PCI/PCIe devices <text:span text:style-name="T38">and </text:span>expansion ROMs and allow direct access to PCI configuration registers via bus/device/function.</text:p>
+   <text:p text:style-name="P9">chipsec_util -m pci enumerate</text:p>
+   <text:p text:style-name="P9">chipsec_util -m pci<text:span text:style-name="T19"> &lt;bus&gt; &lt;device&gt; &lt;function&gt; &lt;offset&gt; [width] [value]</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m pci dump<text:span text:style-name="T19"> [&lt;bus&gt; &lt;device&gt; &lt;function&gt;]</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m pci xrom <text:span text:style-name="T19">[&lt;bus&gt; &lt;device&gt; &lt;function&gt;] [xrom_address]</text:span></text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P32"><text:span text:style-name="T29">platform</text:span><text:span text:style-name="T42">: Detect Chipsec/CPU.</text:span></text:p>
+   <text:p text:style-name="P12">chipsec_util platform</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T27">spi</text:span>: <text:span text:style-name="T39">Access the SPI Flash Controller. The Dump command creates a &apos;rom.bin&apos; by the Decode command. The SPI Write and SPI Erase commands are dangerous. </text:span></text:p>
+   <text:p text:style-name="P10">chipsec_util -m spi info</text:p>
+   <text:p text:style-name="P10">chipsec_util -m spi info|dump|read|write|erase|disable-wp <text:span text:style-name="T19">[flash_address] [length] [file]</text:span></text:p>
+   <text:p text:style-name="P31">chipsec_util -m spi dump rom.bin</text:p>
+   <text:p text:style-name="P69">________________________________________________________</text:p>
+   <text:p text:style-name="P55"/>
+   <text:p text:style-name="P42"><text:span text:style-name="T27">spidesc</text:span>: <text:span text:style-name="T75">Parses a file containing a SPI Flash Descriptor.</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T75">chipsec_util spidesc</text:span><text:span text:style-name="T25"> [rom]</text:span></text:p>
+   <text:p text:style-name="P51">chipsec_util spidesc spi.bin</text:p>
+   <text:p text:style-name="P54">________________________________________________________</text:p>
+   <text:p text:style-name="P41"><text:span text:style-name="T27">spd</text:span>: <text:span text:style-name="T74">SPD command.</text:span></text:p>
+   <text:p text:style-name="P21">chipsec_util spd detect</text:p>
+   <text:p text:style-name="P21">chipsec_util spd dump<text:span text:style-name="T19"> [device_addr]</text:span></text:p>
+   <text:p text:style-name="P21">chipsec_util spd read <text:span text:style-name="T19">&lt;device_addr&gt; &lt;offset&gt;</text:span></text:p>
+   <text:p text:style-name="P21">chipsec_util spd write <text:span text:style-name="T19">&lt;device_addr&gt; &lt;offset&gt; &lt;byte_val&gt;</text:span></text:p>
+   <text:p text:style-name="P50">chipsec_util spd dump DIMM0</text:p>
+   <text:p text:style-name="P50">chipsec_util spd read <text:s/>0xA0 0x0</text:p>
+   <text:p text:style-name="P50">chipsec_util spd write 0xA0 0x0 0xAA</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T27">uefi</text:span>: <text:span text:style-name="T40">Provides access to UEFI variables, keys, and NVRAM</text:span>.</text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi types</text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi var-list</text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi var-find <text:span text:style-name="T19">&lt;name&gt;|&lt;GUID&gt;</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi var-read|var-write|var-delete <text:span text:style-name="T19">&lt;name&gt; &lt;GUID&gt; &lt;efi_variable_file&gt;</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi decode <text:span text:style-name="T19">&lt;rom_file&gt; [fwtype]</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi nvram[-auth] <text:span text:style-name="T19">&lt;rom_file&gt; [fwtype]</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi keys <text:span text:style-name="T19">&lt;keyvar_file&gt;</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi tables</text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi s3bootscript <text:span text:style-name="T19">[script_address]</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi assemble <text:span text:style-name="T19">&lt;</text:span><text:span text:style-name="T24">guid</text:span><text:span text:style-name="T19">&gt;</text:span> freeform none|lzma|tiano <text:span text:style-name="T19">&lt;raw_file&gt; &lt;uefi_file&gt;</text:span></text:p>
+   <text:p text:style-name="P9">chipsec_util -m uefi insert_before|insert_after|replace|remove <text:span text:style-name="T19">&lt;</text:span><text:span text:style-name="T24">guid</text:span><text:span text:style-name="T19">&gt; &lt;rom&gt; &lt;new_rom&gt; &lt;uefi_file&gt;</text:span></text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi var-find PK</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi var-read db D719B2CB-3D3A-4596-A3BC-DAD00E67656F db.bin</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi var-write db D719B2CB-3D3A-4596-A3BC-DAD00E67656F db.bin</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi var-delete db D719B2CB-3D3A-4596-A3BC-DAD00E67656F</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi decode uefi.rom</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi nvram uefi.rom vss_auth</text:p>
+   <text:p text:style-name="P26">chipsec_util -m uefi keys db.bin</text:p>
+   <text:p text:style-name="P53">________________________________________________________</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T27">ucode</text:span>: provides a microcode patch command.</text:p>
+   <text:p text:style-name="P13">chipsec_util ucode id|load|decode <text:span text:style-name="T19">[ucode_update_file] [cpu_id]</text:span></text:p>
+   <text:p text:style-name="P13">chipsec_util ucode id</text:p>
+   <text:p text:style-name="P34">chipsec_util ucode load ucode.bin 0</text:p>
+   <text:p text:style-name="P34">chipsec_util ucode decode ucode.pdb</text:p>
+   <text:p text:style-name="P63"/>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P57"><text:span text:style-name="T32">CHIPSEC is Copyright (c) under the GNU </text:span><text:span text:style-name="T33">GPLv2 </text:span><text:span text:style-name="T32">general public license by Intel. This quick reference may be freely distributed under the terms of the GNU </text:span><text:span text:style-name="T33">GPLv2 </text:span><text:span text:style-name="T32">general public license – Copyright (c) 2017 by PreOS Security. <text:s/></text:span><text:span text:style-name="T64">U</text:span><text:span text:style-name="T62">pdate</text:span><text:span text:style-name="T63">s at</text:span><text:span text:style-name="T62">: </text:span><text:a xlink:type="simple" xlink:href="https://preossec.com/blog" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T65">https://preossec.com/blog</text:span></text:a></text:p>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P4"><text:span text:style-name="T44">CHIPSEC </text:span><text:span text:style-name="T45">Q</text:span><text:span text:style-name="T46">uick </text:span><text:span text:style-name="T45">R</text:span><text:span text:style-name="T46">eference </text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T46">for System Administrators </text:span><text:span text:style-name="T57"><text:line-break/></text:span><text:span text:style-name="T65">by PreOS Security<text:line-break/>v0.</text:span><text:span text:style-name="T66">4</text:span><text:span text:style-name="T65">, 2017-07-</text:span><text:span text:style-name="T66">31</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
